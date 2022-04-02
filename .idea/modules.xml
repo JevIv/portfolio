@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../It-incubator/.idea/It-incubator.iml" filepath="$PROJECT_DIR$/../It-incubator/.idea/It-incubator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Test_tasks/.idea/Test_tasks.iml" filepath="$PROJECT_DIR$/../Test_tasks/.idea/Test_tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imdb-main/.idea/imdb-main.iml" filepath="$PROJECT_DIR$/../imdb-main/.idea/imdb-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/portfolio.iml" filepath="$PROJECT_DIR$/.idea/portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../teamWork/.idea/teamWork.iml" filepath="$PROJECT_DIR$/../teamWork/.idea/teamWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../teamWorkBack/.idea/teamWorkBackend.iml" filepath="$PROJECT_DIR$/../teamWorkBack/.idea/teamWorkBackend.iml" />
+    </modules>
+  </component>
+</project>
